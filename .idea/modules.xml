@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RoboCodeChallenge.iml" filepath="$PROJECT_DIR$/RoboCodeChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moritzRobots.iml" filepath="$PROJECT_DIR$/moritzRobots.iml" />
     </modules>
   </component>
 </project>
